@@ -10,7 +10,7 @@
 
 ---
 
-## 1. em đã tham gia vào phần nào?
+## 1. Em đã tham gia vào phần nào?
 
 | Hoạt động | em đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
 |---|---|---|
@@ -29,6 +29,7 @@
 
 ```text
 em là người pitch card CV + cover letter và vẽ workflow before/after. Phần bottleneck “viết/chỉnh nội dung 40–50 phút” và fallback “AI generic thì bỏ draft” là do em đề xuất và nhóm giữ lại.
+```
 
 ---
 
