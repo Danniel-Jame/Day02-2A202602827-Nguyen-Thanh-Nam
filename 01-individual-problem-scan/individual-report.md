@@ -1,12 +1,12 @@
-# 01 — Individual Problem Scan (Phase 1)
+# 01 — Individual Problem Scan
 
-> Điền theo Phase 1 trong `01-worksheet.md`. Tự scan trước, dùng AI sau để phản biện. Không copy ví dụ Weekly Report.
+> Điền theo Phase 1 + Phase 2 trong `01-worksheet.md`. Tự scan trước, dùng AI sau để phản biện. Không copy ví dụ Weekly Report.
 
 ## Thông tin cá nhân
 
 - Họ và tên: Nguyễn Thành Nam
 - Mã học viên: 2A202602827
-- Vai trò / bối cảnh: Sinh viên 
+- Vai trò / bối cảnh: Sinh viên
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
   - Theo dõi deadline bài tập, đồ án nhóm qua Zalo / Discord / LMS trường
   - Viết báo cáo thực tập / progress update hàng tuần
@@ -44,6 +44,7 @@
 - [x] Không có dòng chung chung kiểu "mất nhiều thời gian"
 
 ---
+
 ## Phase 2 — Top 3 Problem Cards
 
 ### 2.1. Chọn top 3
@@ -95,9 +96,12 @@ AI hỗ trợ cấu trúc dữ liệu và draft narrative. Thực tập sinh v�
 
 Quick gut:
 [x] Workflow
+```
 
-Draft workflow Card #1:
-textCURRENT STATE — 60 phút
+**Draft workflow Card #1:**
+
+```text
+CURRENT STATE — 60 phút
 
 [1 Mở ghi chú + Excel: 8'] 
 → [2 Lục tin nhắn mentor: 12'] 
@@ -114,9 +118,14 @@ FUTURE STATE — 20 phút
 → [4 Gửi: 2']
 
 Fallback: AI draft tệ hoặc thiếu insight → Intern bỏ draft và tự viết lại.
+```
 
-Problem Card #2 — Theo dõi deadline & thông báo học tập rải rác
-textProblem 1 câu:
+---
+
+#### Problem Card #2 — Theo dõi deadline & thông báo học tập rải rác
+
+```text
+Problem 1 câu:
 Mỗi tuần sinh viên mất 25–40 phút để lục lại deadline, bài nộp và điểm danh từ nhiều group Zalo/Discord + LMS vì thông báo không tập trung.
 
 Actor:
@@ -150,8 +159,12 @@ AI/Workflow có thể tóm tắt thông báo mới từ nhiều nguồn và nh�
 
 Quick gut:
 [x] Workflow
-Draft workflow Card #2:
-textCURRENT STATE — 35 phút
+```
+
+**Draft workflow Card #2:**
+
+```text
+CURRENT STATE — 35 phút
 
 [1 Mở lần lượt group Zalo/Discord: 12'] 
 → [2 Scroll + tìm thông báo: 10']  <-- bottleneck
@@ -166,9 +179,14 @@ FUTURE STATE — 8 phút
 → [3 Xác nhận & đưa vào lịch: 2']
 
 Fallback: Tool tổng hợp sai hoặc thiếu → Sinh viên vẫn giữ thói quen kiểm tra LMS thủ công.
+```
 
-Problem Card #3 — Viết & chỉnh CV + Cover letter mỗi lần apply
-textProblem 1 câu:
+---
+
+#### Problem Card #3 — Viết & chỉnh CV + Cover letter mỗi lần apply
+
+```text
+Problem 1 câu:
 Mỗi lần apply thực tập/job, sinh viên mất 60–90 phút để viết và chỉnh CV + cover letter tiếng Anh gần như từ đầu vì phải highlight khác nhau theo từng vị trí.
 
 Actor:
@@ -202,8 +220,12 @@ AI draft phần highlight và cover letter dựa trên JD + CV gốc; người d
 
 Quick gut:
 [x] Workflow
-Draft workflow Card #3:
-textCURRENT STATE — 75 phút
+```
+
+**Draft workflow Card #3:**
+
+```text
+CURRENT STATE — 75 phút
 
 [1 Đọc JD + ghi chú: 10'] 
 → [2 Mở CV cũ: 5'] 
@@ -219,22 +241,36 @@ FUTURE STATE — 25 phút
 → [4 Xuất PDF: 4']
 
 Fallback: AI draft generic hoặc sai emphasis → Sinh viên bỏ và viết lại phần quan trọng.
+```
 
-2.3. Card muốn pitch nhất (chuẩn bị 2 phút)
-Card tôi muốn pitch nhất:
-textProblem Card #1 — Progress Report thực tập hàng tuần
-Vì sao (2-3 câu: workflow gì, số đo gì, impact gì):
-textWorkflow hiện tại rõ 6 bước, bottleneck nằm đúng ở bước viết narrative (25–30 phút). Metric đo được dễ (45–70 phút → dưới 25 phút). Impact thực tế với thực tập sinh và mentor, đồng thời rất phù hợp để so sánh Rule / Workflow / Agent trong lab.
-Câu hỏi tôi muốn nhóm challenge (1-2 câu hỏi đúng chỗ yếu):
-text1. Metric “không tăng số câu hỏi sửa từ mentor” có đo được trong thời gian lab không, hay cần cách đo khác?
+---
+
+### 2.3. Card muốn pitch nhất (chuẩn bị 2 phút)
+
+**Card tôi muốn pitch nhất:**
+
+```text
+Problem Card #1 — Progress Report thực tập hàng tuần
+```
+
+**Vì sao (2-3 câu: workflow gì, số đo gì, impact gì):**
+
+```text
+Workflow hiện tại rõ 6 bước, bottleneck nằm đúng ở bước viết narrative (25–30 phút). Metric đo được dễ (45–70 phút → dưới 25 phút). Impact thực tế với thực tập sinh và mentor, đồng thời rất phù hợp để so sánh Rule / Workflow / Agent trong lab.
+```
+
+**Câu hỏi tôi muốn nhóm challenge (1-2 câu hỏi đúng chỗ yếu):**
+
+```text
+1. Metric “không tăng số câu hỏi sửa từ mentor” có đo được trong thời gian lab không, hay cần cách đo khác?
 2. Nếu chỉ dùng template + checklist (No AI) thì đã giảm được bao nhiêu % thời gian, có đáng để lên Workflow không?
-AI phản biện Card (nếu có):
+```
 
-Điểm yếu AI chỉ ra: —
-Tôi sửa gì: —
+**AI phản biện Card (nếu có):**
+- Điểm yếu AI chỉ ra: —
+- Tôi sửa gì: —
 
-Self-check nộp phần 01
-
- Có 5+ problems + top 3 Cards đủ field
- Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
- Đã chọn 1 card pitch + câu hỏi challenge
+### Self-check nộp phần 01
+- [x] Có 5+ problems + top 3 Cards đủ field
+- [x] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
+- [x] Đã chọn 1 card pitch + câu hỏi challenge
