@@ -1,6 +1,5 @@
 # 01 — Individual Problem Scan
 
-> Điền theo Phase 1 + Phase 2 trong `01-worksheet.md`. Tự scan trước, dùng AI sau để phản biện. Không copy ví dụ Weekly Report.
 
 ## Thông tin cá nhân
 
@@ -31,7 +30,7 @@
 | 7 | Lặp lại + Pain từ người khác | Lọc và theo dõi tin tuyển dụng thực tập/job trên nhiều nền tảng (TopCV, VietnamWorks, Facebook group, LinkedIn) vì thông tin trùng lặp và spam nhiều | Sinh viên tìm việc / thực tập | Mỗi tuần dành 1–1,5 giờ lọc; khoảng 40–60% tin không còn hạn hoặc không đúng mô tả; nhiều bạn bỏ lỡ deadline apply |
 | 8 | Tốn thời gian + AI có thể tốt hơn | Hiểu và theo dõi quy trình hành chính liên quan thuế TNCN, bảo hiểm xã hội hoặc giấy tờ thực tập (đặc biệt khi đi làm thêm/part-time) vì thông tin nằm rải rác trên nhiều website và văn bản pháp lý | Sinh viên đi làm thêm / mới đi làm | Mỗi lần tìm hiểu mất 40–90 phút; xảy ra mỗi khi có thay đổi quy định hoặc khi cần quyết toán; nhiều người phải hỏi lại kế toán hoặc bạn bè cùng tình trạng |
 
-> Gợi ý tự soi đã dùng: tuần trước mất nhiều thời gian nhất vào việc theo dõi deadline và viết báo cáo; việc hay trì hoãn là chỉnh CV; người khác hay hỏi lại task/deadline trong nhóm; workflow hành chính và tìm việc ai cũng biết là chậm.
+
 
 **AI đã dùng ở Phase 1 (nếu có):**
 - Prompt đã hỏi: Chưa dùng AI ở bước scan ban đầu. Chỉ tự quan sát từ trải nghiệm học tập và thực tập tại Việt Nam.
